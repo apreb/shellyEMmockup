@@ -1,5 +1,5 @@
 /*
- shellyAPR.ino - Simple mockup alternative to shelly EM Energy Meter firmware
+ shellyEMmockup.ino - Simple mockup alternative to shelly EM Energy Meter firmware
   Created by APR
   May 21, 2020
 

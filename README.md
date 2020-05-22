@@ -39,6 +39,8 @@ This code has the following features:
   - Publish RTC time and energy readings to MQTT every 1s
   - WebUpdater.ino code included for easy updates OTA - http://<IP_address>/update
   
+  ![](https://lh3.googleusercontent.com/pw/ACtC-3euHPy76cJqumeQIC3ssVWz0JF5_0skSKkTX7I6qG9k7677l6aEp3UTEn6t9fXDrYqIl5KPrMfg3z3qBLNKoAsCKRHcWfyogfXBR57wNyaMJBa-rBTmf4WIbkGp633juPkwd-q1MW1Dp9LgECpZ5xOR=w892-h437-no?authuser=0)
+
   
   Have fun!
   

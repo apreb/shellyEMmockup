@@ -186,8 +186,8 @@ void loop() {
   
     handleButton();
 
-    char msg[250];
-    getPCF8563(msg, 250); // get RTC data
+    char msg[100];
+    getPCF8563(msg, 100); // get RTC data
     Serial.println(msg);
 #ifdef MQTT_ENABLE
     if (client.connected()) client.publish(MQTT_PUB_RTC_TOPIC, msg);
